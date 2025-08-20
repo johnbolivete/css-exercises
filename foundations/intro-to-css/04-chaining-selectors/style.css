@@ -6,7 +6,7 @@
     height: auto;
 }
 
-.avatar.proportioned {
+.avatar.distorted{
     width: 200px;
     height: 400px;
 }
